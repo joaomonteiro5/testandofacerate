@@ -10,7 +10,8 @@ import {
   Eye,
   Triangle,
   Activity,
-import { Flame } from "lucide-react";
+  Flame,
+} from "lucide-react";
 import { AuthModal } from "@/components/AuthModal";
 import { supabase } from "@/integrations/supabase/client";
 import { toast } from "sonner";
